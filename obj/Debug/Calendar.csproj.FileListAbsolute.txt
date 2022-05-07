@@ -1,0 +1,15 @@
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Azlan\Desktop\VSCode\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Azlan\Desktop\VSCode\Calendar\bin\Debug\Calendar.exe
+C:\Users\Azlan\Desktop\VSCode\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.exe
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.pdb
+C:\Users\Azlan\Desktop\VSCode\Calendar\bin\Debug\Calendar.exe.manifest
+C:\Users\Azlan\Desktop\VSCode\Calendar\bin\Debug\Calendar.application
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.exe.manifest
+C:\Users\Azlan\Desktop\VSCode\Calendar\obj\Debug\Calendar.application
